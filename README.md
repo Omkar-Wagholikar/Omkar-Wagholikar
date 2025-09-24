@@ -8,16 +8,19 @@
 
 ### Hey, I'm Omkar 👋🏼
 
-Hello! I’m a highly motivated and dynamic 21-year-old final-year engineering student at Pune Institute of Computer Technology, with a strong passion for technology, astronomy, reading and photography.
+Hi, I’m Omkar Wagholikar — a software engineer passionate about building impactful products at the intersection of full-stack development and applied AI.
 
 <!-- ====================== ABOUT ME ====================== -->
 
 ## 🙋 About Me
-As an aspiring full stack developer, I am committed to acquiring in-depth knowledge across a diverse range of technologies. I am actively gaining experience in backend development with **Flask**, **Django**, and **Spring** and frontend development using **Flutter** and **React**. 
+I have hands-on experience across a wide range of technologies, with a strong foundation in the Python, building production ready systems in **Django** and **React**. I am a full-stack web developer, with skills complemented by backend expertise in frameworks like **Flask**, **Django**. Alongside this, I’ve worked with asynchronous and event driven systems like **Celery**, **RabbitMQ**). I have explored lower-level programming in C and Rust, strengthening my ability to design efficient and scalable solutions.
 
-I've also worked with server-side technologies like **Celery**, **Redis**, and explored Large Language Models like **Llama2** and **BERT**.
+I enjoy experimenting with **generative AI** and **LLMs**, having built a Python package that enables users to **customize a RAG pipeline** to converse with documents all **on-device** directly from the terminal or the UI all on device, combining **usability** with **privacy**.
 
-My coding proficiency spans **Java**, **Python**, **C++** and I’m currently diving into low-level programming with **C** and **Rust**. In addition to coding, I am deeply interested in learning about, **digital privacy**, and **data encryption** and the field of cryptography as a whole.
+Beyond coding, I’ve contributed as a student leader at PICT IEEE Student Branch, and honed my public speaking and leadership skills. I’m also a creative **graphic designer** and **photographer**, having designed numerous posters for my college clubs
+
+I’m always excited to connect, collaborate, create or just chat about exciting tech stuff
+
 
 ## 🔧 Languages, Frameworks and Tools
 
@@ -77,7 +80,7 @@ My coding proficiency spans **Java**, **Python**, **C++** and I’m currently di
 
 ## 📮 Let's Connect
 
-[@omkargwagholikar](https://linkedin.com/in/omkargwagholikar) on all platforms.
+[@omkar-wagholikar](https://linkedin.com/in/omkar-wagholikar) on all platforms.
 
   <a href="https://linkedin.com/in/omkargwagholikar"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
   <a href="https://leetcode.com/omkargwagholikar/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
