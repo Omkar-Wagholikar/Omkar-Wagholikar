@@ -2,7 +2,7 @@
 
  <h1 align="center">Hi, I'm Omkar 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
-<h3 align="center">Software Engineer · Backend & Data Engineering · Passionate Reader, Astronomy Enthusiast, occasional Graphic Designer</h3> 
+<h3 align="center">Backend & Data Engineering · Passionate Reader · Astronomy Enthusiast · Graphic Designer</h3> 
 
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 
@@ -120,8 +120,6 @@ I'm always excited to connect, collaborate, create or just chat about exciting t
   <img width="2">
 
 ## 📮 Let's Connect
-
-[@omkar-wagholikar](https://linkedin.com/in/omkar-wagholikar) on all platforms.
 
   <a href="https://linkedin.com/in/omkargwagholikar"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
   <a href="https://leetcode.com/omkargwagholikar/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
