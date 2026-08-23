@@ -2,49 +2,78 @@
 
  <h1 align="center">Hi, I'm Omkar 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
-<h3 align="center">Full Stack Web Developer, Passionate Reader, Astronomy Enthusiast, occasional Graphic Designer and also a Software Engineer</h3> 
+<h3 align="center">Software Engineer at NiCE Ltd · Backend & Data Engineering · Passionate Reader, Astronomy Enthusiast, occasional Graphic Designer</h3> 
 
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 
 ### Hey, I'm Omkar 👋🏼
 
-Hi, I’m Omkar Wagholikar — a software engineer passionate about building impactful products at the intersection of full-stack development and applied AI.
+Hi, I'm Omkar Wagholikar — a software engineer working on backend systems in **C#**, where I optimize application logic, debug distributed workflows, and build scalable document ingestion pipelines on cloud infrastructure.
 
 <!-- ====================== ABOUT ME ====================== -->
 
 ## 🙋 About Me
-I have hands-on experience across a wide range of technologies, with a strong foundation in the Python, building production ready systems in **Django** and **React**. I am a full-stack web developer, with skills complemented by backend expertise in frameworks like **Flask**, **Django**. Alongside this, I’ve worked with asynchronous and event driven systems like **Celery**, **RabbitMQ**). I have explored lower-level programming in C and Rust, strengthening my ability to design efficient and scalable solutions.
+My day-to-day toolbox includes **Python, Java, JavaScript/TypeScript, and C#**, with meaningful experience across **Django/DRF, React, Node.js, Celery, and RabbitMQ**, along with data tooling like **Airflow, DBT, BigQuery, and Elasticsearch**. I'm comfortable across both application and data engineering — from building full-stack platforms and scalable ingestion systems to authoring **BRAGS**, a published Python package for customizable on-device RAG pipelines with a Go-based file watcher and an MCP server for Claude Code. I also enjoy exploring lower-level programming in **C, Rust, and SIMD/AVX2** to better understand performance and concurrency.
 
-I enjoy experimenting with **generative AI** and **LLMs**, having built a Python package that enables users to **customize a RAG pipeline** to converse with documents all **on-device** directly from the terminal or the UI all on device, combining **usability** with **privacy**.
+Beyond engineering, I'm a **passionate reader, astronomy enthusiast, and occasional graphic designer and photographer**. I actively contribute to open source, compete in hackathons, and speak at developer communities — most recently on **Unix file descriptors and PTY internals** at **FOSS United Pune**.
 
-Beyond coding, I’ve contributed as a student leader at PICT IEEE Student Branch, and honed my public speaking and leadership skills. I’m also a creative **graphic designer** and **photographer**, having designed numerous posters for my college clubs
+I'm always excited to connect, collaborate, create or just chat about exciting tech stuff
 
-I’m always excited to connect, collaborate, create or just chat about exciting tech stuff
+<!-- ====================== PROJECTS ====================== -->
 
+## ⚡️ Projects
+
+<h3><img height="38" src="https://cdn.simpleicons.org/react" alt="Web" /> Web &amp; Full-Stack</h3>
+
+- [EduNexus](https://github.com/Omkar-Wagholikar/EduNexus): Academic file-sharing platform with hybrid lexical + semantic search over PDFs, slides, and docs, plus OCR and LLM summaries. `Django` `React` `TypeScript` `pgvector`
+
+<h3><img height="38" src="https://cdn.simpleicons.org/ollama/white" alt="Generative AI" /> Generative AI</h3>
+
+- [BRAGS: Build your own RAGs](https://github.com/Omkar-Wagholikar/brags) ![PyPI Downloads](https://img.shields.io/pypi/dm/brags): CLI + Python package for spinning up custom RAG pipelines, with a live-syncing file watcher, hallucination checking, and an MCP server for Claude Code. `Python` `Go` `FAISS` `MCP`
+
+<h3><img height="38" src="https://cdn.simpleicons.org/opencv" alt="Security" /> Media &amp; Security</h3>
+
+- [Project MAVIS](https://github.com/Project-MAVIS/MAVIS): Media authenticity system that signs images at capture with an emulated Secure Enclave and verifies them via steganographic watermarks. `Python` `FastAPI` `Gradio` `OpenCV`
+
+<h3><img height="38" src="https://cdn.simpleicons.org/go" alt="Backend" /> Backend &amp; Systems</h3>
+
+- [Cloudrive](https://github.com/Omkar-Wagholikar/Cloudrive): Self-hosted, Google Drive-style storage system with a Go backend built for low-RAM ARM devices and a native Android client with offline music playback. `Go` `Kotlin` `Jetpack Compose` `Kafka`
+
+<h3><img height="38" src="https://cdn.simpleicons.org/c" alt="C" /> C Language</h3>
+
+- [Orbital8: SIMD Gravity Simulator](https://github.com/Omkar-Wagholikar/Orbital8): AVX2 SIMD-accelerated N-body gravity simulator capped at exactly 8 bodies, one vectorized pass per frame, rendered live with raylib. `C` `AVX2` `SIMD` `raylib`
+
+<h3><img height="38" src="https://cdn.simpleicons.org/rust/CE412B" alt="Rust" /> Rust</h3>
+
+- [Termion: Terminal Emulator](https://github.com/Omkar-Wagholikar/Termion): Terminal emulator built from scratch on PTY and egui, with ANSI escape parsing, non-blocking I/O, and command history. `Rust` `egui` `nix` `PTY`
 
 ## 🔧 Languages, Frameworks and Tools
 
 
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt = "Python" height = 40px>](https://www.python.org)
   <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height=40px>](https://www.java.com/en/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height=40px>](https://en.wikipedia.org/wiki/JavaScript)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height=40px>](https://www.typescriptlang.org/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height=40px>](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  <img width="2">
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg" alt = "C" height = 40px>](https://en.wikipedia.org/wiki/C_(programming_language))
   <img width="2">
-  [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-plusplus.svg" alt = "C++" height = 40px>](https://en.wikipedia.org/wiki/C%2B%2B)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height=40px>](https://www.rust-lang.org/)
   <img width="2">
-  [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" alt = "Java" height = 40px>](https://www.java.com/en/)
-  <img width="2">
-  [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" alt = "Dart" height = 40px>](https://dart.dev)
-  <img width="2">
-  [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt = "JavaScript" height = 40px>](https://en.wikipedia.org/wiki/JavaScript)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height=40px>](https://go.dev/)
   <img width="2">
 
-  [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>](https://flutter.dev/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height=40px>](https://www.djangoproject.com/)
   <img width="2">
-  [<img src="https://miro.medium.com/v2/resize:fit:980/1*cWuvkF15QKOsTHtgyIaqOA.png" alt="Flask" height=40px>](https://flask.palletsprojects.com/en/3.0.x/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height=40px>](https://react.dev)
   <img width="2">
-  [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height = 40px>](https://react.dev)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height=40px>](https://nodejs.org/)
   <img width="2">
-  [<img src = "https://streamlit.io/images/brand/streamlit-mark-color.png" height = 40px>](https://streamlit.io/)
+  [<img src="https://cdn.simpleicons.org/celery" alt="Celery" height=40px>](https://docs.celeryq.dev/)
   <img width="2">
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" alt = "HTML" height = 40px>](https://en.wikipedia.org/wiki/HTML)
   <img width="2">
@@ -52,18 +81,30 @@ I’m always excited to connect, collaborate, create or just chat about exciting
   <img width="2">
 
 
-  [<img src = "https://img.icons8.com/?size=512&id=20906&format=png" alt = "Git" height = 40px>](https://git-scm.com)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height=40px>](https://www.postgresql.org/)
   <img width="2">
-  [<img src = "https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" alt = "GitHub" height = 40px>](https://github.com)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height=40px>](https://www.mongodb.com/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height=40px>](https://www.mysql.com/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height=40px>](https://redis.io/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height=40px>](https://kafka.apache.org/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" height=40px>](https://www.rabbitmq.com/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" height=40px>](https://www.elastic.co/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height=40px>](https://www.docker.com/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" height=40px>](https://airflow.apache.org/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height=40px>](https://aws.amazon.com/)
+  <img width="2">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height=40px>](https://cloud.google.com/)
   <img width="2">
   [<img src = "https://img.icons8.com/?size=512&id=62452&format=png" alt = "Firebase" height = 40px>](https://firebase.google.com)
   <img width="2">
-  <img width="2">
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height=40px>](https://www.mongodb.com/)
-  [<img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" height=35px>](https://www.djangoproject.com/)
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height=40px>](https://expressjs.com/)
-  [<img src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" height=40px>](https://jwt.io/)
-  [<img src="https://play-lh.googleusercontent.com/cUrv0t00FYQ1GKLuOTvv8qjo1lSDjqZC16IOp3Fb6ijew6Br5m4o16HhDp0GBu_Bw8Y" height=40px>](https://uptimerobot.com/)
 
  
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-illustrator.svg" alt = "Adobe Illustrator" height = 40px>](https://www.adobe.com/in/products/illustrator.html)
