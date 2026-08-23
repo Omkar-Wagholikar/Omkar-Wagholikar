@@ -2,20 +2,20 @@
 
  <h1 align="center">Hi, I'm Omkar 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
-<h3 align="center">Software Engineer at NiCE Ltd · Backend & Data Engineering · Passionate Reader, Astronomy Enthusiast, occasional Graphic Designer</h3> 
+<h3 align="center">Software Engineer · Backend & Data Engineering · Passionate Reader, Astronomy Enthusiast, occasional Graphic Designer</h3> 
 
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 
 ### Hey, I'm Omkar 👋🏼
 
-Hi, I'm Omkar Wagholikar — a software engineer working on backend systems in **C#**, where I optimize application logic, debug distributed workflows, and build scalable document ingestion pipelines on cloud infrastructure.
+Hi, I'm Omkar Wagholikar a software engineer working on backend systems in **C#**, where I optimize application logic, debug distributed workflows, and build scalable document ingestion pipelines on cloud infrastructure.
 
 <!-- ====================== ABOUT ME ====================== -->
 
 ## 🙋 About Me
-My day-to-day toolbox includes **Python, Java, JavaScript/TypeScript, and C#**, with meaningful experience across **Django/DRF, React, Node.js, Celery, and RabbitMQ**, along with data tooling like **Airflow, DBT, BigQuery, and Elasticsearch**. I'm comfortable across both application and data engineering — from building full-stack platforms and scalable ingestion systems to authoring **BRAGS**, a published Python package for customizable on-device RAG pipelines with a Go-based file watcher and an MCP server for Claude Code. I also enjoy exploring lower-level programming in **C, Rust, and SIMD/AVX2** to better understand performance and concurrency.
+My day-to-day toolbox includes **Python, Java, JavaScript/TypeScript, and C#**, with meaningful experience across **Django/DRF, React, Node.js, Celery, and RabbitMQ**, along with data tooling like **Airflow, DBT, BigQuery, and Elasticsearch**. I'm comfortable across both application and data engineering from building full-stack platforms and scalable ingestion systems to authoring **BRAGS**, a published Python package for customizable on-device RAG pipelines with a Go-based file watcher and an MCP server for Claude Code. I also enjoy exploring lower-level programming in **C, Rust, and SIMD/AVX2** to better understand performance and concurrency.
 
-Beyond engineering, I'm a **passionate reader, astronomy enthusiast, and occasional graphic designer and photographer**. I actively contribute to open source, compete in hackathons, and speak at developer communities — most recently on **Unix file descriptors and PTY internals** at **FOSS United Pune**.
+Beyond engineering, I'm a **passionate reader, astronomy enthusiast, and occasional graphic designer and photographer**. I actively contribute to open source, compete in hackathons, and speak at developer communities most recently on **Unix file descriptors and PTY internals** at **FOSS United Pune**.
 
 I'm always excited to connect, collaborate, create or just chat about exciting tech stuff
 
